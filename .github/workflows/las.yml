@@ -1,4 +1,4 @@
-name: lastapp
+name: lasapp
 on: 
   push:
     branches: [ "main" ]
